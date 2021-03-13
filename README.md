@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an IT prof with 12 years experience across UK & NZ, pivoting into web development. 
+I'm an IT professional with 12 years experience across the UK & NZ, pivoting into web development. 
 
 I've recently completed a bootcamp covering LAMP & MERN stacks, and would like to work with GraphQL more.
 I'm interested in working as a backend of full stack developer in the UK, or remotely
