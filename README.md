@@ -1,4 +1,10 @@
 ### Hi there 👋
+I'm an IT prof with 12 years experience across UK & NZ, pivoting into web development. 
+
+I've recently completed a bootcamp covering LAMP & MERN stacks, and would like to work with GraphQL more.
+I'm interested in working as a backend of full stack developer in the UK, or remotely
+
+I'm  interested in psychology, making short film, travelling and the design & architecture of almost everything from housing to software
 
 <!--
 **davin2020/davin2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
