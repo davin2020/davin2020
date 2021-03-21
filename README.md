@@ -10,7 +10,7 @@ I'm  interested in psychology, making short film, travelling and the design & ar
 * I collect tshirts from the places I've been and the things I've have done
 * I've climbed Mt Kinabalu in Borneo 2.5 times - its half as high as Everest and you can see the curvature of the Earth from the summit
 * I volunteered in Thailand after the 2004 tsunami and helped villagers build 106 houses for their families
-* The Thai alphabet has 44 consonants - it starts with `chicken` and ends with `owl`!
+* When I taught myself the Thai alphabet, I found out it has 44 consonants - the first one is `chicken`, the second one is `egg` and the last one is `owl` - so the chicken does come before the egg!
 * I can make a simple [croquembouche](https://en.wikipedia.org/wiki/Croquembouche), although it takes me about 5 hours
 * I aspire to have the most [Killjoys](https://en.wikipedia.org/wiki/Killjoys) themed repos on GH - so far I've made a start with 1!
 
