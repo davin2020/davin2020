@@ -1,17 +1,18 @@
 ### Hey, I'm Davin 👋
-I'm an IT professional with 12 years experience across the UK & NZ, pivoting into web development. 
+I'm an IT professional with over 12 years experience across the UK & NZ, pivoting into web development. 
 
 I've recently completed a bootcamp covering LAMP & MERN stacks, and would like to work with GraphQL more.
-I'm interested in working as a backend of full stack developer in the UK, or remotely
+I'm open to working as a backend or full stack developer in the UK, or remotely.
 
-I'm  interested in psychology, making short film, travelling and the design & architecture of almost everything from housing to software
+I'm  interested in psychology, making short films, travelling and the design & architecture of almost everything from housing to software
 
 - ⚡ Fun facts: ...
-* I collect tshirts from the places I've been and the things I've have done
+* I (used to) travel and have visited over 15 countries in the last 15 years - I really liked Singapore and Rotterdam for their architecture and public spaces.
+* I collect t-shirts from the places I've been and the things I've  done
 * I've climbed Mt Kinabalu in Borneo 2.5 times - its half as high as Everest and you can see the curvature of the Earth from the summit
-* I volunteered in Thailand after the 2004 tsunami and helped villagers build 106 houses for their families
-* When I taught myself the Thai alphabet, I found out it has 44 consonants - the first one is `chicken`, the second one is `egg` and the last one is `owl` - so the chicken does come before the egg!
-* I can make a simple [croquembouche](https://en.wikipedia.org/wiki/Croquembouche), although it takes me about 5 hours
+* I volunteered in Thailand after the 2004 tsunami and helped villagers build 106 houses for their families - so I can bricklay and screed concrete floors to Thai standards
+* When I taught myself the Thai alphabet, I discovered it has 44 consonants - the first one is `chicken`, the second one is `egg` and the last one is `owl` - so the chicken does come before the egg!
+* I can make a basic [croquembouche](https://en.wikipedia.org/wiki/Croquembouche), although it takes me about 5 hours
 * I aspire to have the most [Killjoys](https://en.wikipedia.org/wiki/Killjoys) themed repos on GH - so far I've made a start with 1!
 
 <!--
