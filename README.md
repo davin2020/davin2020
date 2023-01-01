@@ -8,7 +8,7 @@ I'm open to opportunities working as a backend or full stack developer in the UK
 I'm  interested in psychology and wellbeing, making short films, travelling and the design & architecture of almost everything from housing to software.   <br></br>
 
 #### 😄 Pronouns: 
-- he/they  <br></br>
+- he/him  <br></br>
 
 #### 💬 Ask me about / 👯 I’m looking to collaborate on  ...
 - psychology related apps, especially if your into NVC by Marshall Rosenberg  <br></br>
